@@ -1,0 +1,5 @@
+c:\users\chocho\documents\visual studio 2015\Projects\exam18Dec\grades\bin\Debug\grades.exe.config
+c:\users\chocho\documents\visual studio 2015\Projects\exam18Dec\grades\bin\Debug\grades.exe
+c:\users\chocho\documents\visual studio 2015\Projects\exam18Dec\grades\bin\Debug\grades.pdb
+c:\users\chocho\documents\visual studio 2015\Projects\exam18Dec\grades\obj\Debug\grades.exe
+c:\users\chocho\documents\visual studio 2015\Projects\exam18Dec\grades\obj\Debug\grades.pdb
